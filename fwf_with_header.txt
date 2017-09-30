@@ -1,4 +1,4 @@
-student_id,course_id,grade
+student_id course_id grade
 9774C406890A
 2545C482254A
 5571C911441B
